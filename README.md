@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey folks 👋
 
-<!--
-**NamTakeshi/NamTakeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nam, a Business Informatics student based in Germany.
 
-Here are some ideas to get you started:
+I design and build whatever i can imagine. 
+Some of these are my university projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is Java, JavaScript, SQL, Tailwind, and Vue.
+
+**Fun Facts:**
+
+- I create cinematic/ inspirational videos as my hobby
+- I enjoy doing sports to balance out the mental work
+- I was born in Hanoi, Vietnam, which is my hometown
+- I moved to Berlin to explore new perspectives
+
